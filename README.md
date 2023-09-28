@@ -33,5 +33,7 @@ Nesse meu caso, elas já estão ativas, porem se desativarem, a extensão faz el
 
 
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
+
+ 🎥: https://youtu.be/P4PQXmhFkl0
  
  E-mail: contato@pontoparse.net
