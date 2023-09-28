@@ -19,7 +19,17 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 ![image](https://github.com/Wilkor/doc-plugin-desk-notifications/assets/34819624/48b240b5-928f-439d-ab31-b37892bb260b)
 
 
-Feito todos os passos acima, é só atualizar o BlipDesk.
+Feito todos os passos acima, agora é hora de testar!
+
+Acesse a plataforma BlipDesk, vá em configurações (icone de engrenagem)
+
+![image](https://github.com/Wilkor/doc-plugin-desk-notifications/assets/34819624/0f6c22a7-d958-4cf3-9427-066c5db21977)
+
+Após clicar no icone, uma tela será aberta à sua direita, com as preferencias, conforme tela abaixo:
+
+![image](https://github.com/Wilkor/doc-plugin-desk-notifications/assets/34819624/82ee074f-0ac8-43aa-a990-081931de36d6)
+
+Nesse meu caso, elas já estão ativas, porem se desativarem, a extensão faz elas voltarem a fica ativas novamente.
 
 
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
