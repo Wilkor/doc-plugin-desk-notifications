@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-desk-notifications/assets/34819624/de0c2641-6477-4eb2-a514-f22f09b7af3a)
 
 # Como utilizar a extensão Desk Notifications!
 
